@@ -5,15 +5,15 @@ Generative Artificial Intelligence. Throughout this internship, you will work on
 gain hands-on experience with cutting-edge technologies, and develop a deep understanding of
 generative models.
 
-## Table of Contents -
-# 1. Introduction
-# 2. Objectives
-# 3. Flow of Work
-# 4. Sample Projects
-# 5. Requirements
-# 6. Contributing
-# 7. Resources
-# 8. License
+## Table of Contents 
+1. [Introduction](#introduction) 
+2. [Objectives](#objectives)
+3. [Rules and Regulations](#rules-and-regulations)
+4. [Sample Projects](#sample-projects)
+5. [Requirements](#requirements)
+6. [Contributing](#contributing)
+7. [Resources](#resources)
+8. [License](#license)
 
 ## Introduction
 The Generative AI Internship is an educational program aimed at aspiring AI enthusiasts who
@@ -25,6 +25,32 @@ Some of the basic objective of the intenship is to provide:
 generative AI tools and frameworks.
 2. Problem-Solving Enhancement: Strengthen students' problem-solving capabilities and
 technical expertise in AI.
+
+## Objectives
+1. **Practical Skills:** Equip students with hands-on experience in using advanced engineering tools and software.
+
+2. **Problem-Solving:** Enhance students' problem-solving abilities and technical expertise.
+
+3. **Competitive Readiness:** Prepare students for competitive scenarios in the tech industry.
+
+4. **Technological Understanding:** Foster a deep understanding of the latest technologies and their applications.
+
+5. **Git/GitHub Proficiency:** Teach students how to control their repository and work in collaborations using Git/GitHub.
+
+6. **Version Control Management:** Enable students to make pull requests and manage version control effectively.
+
+7. **Project Development Workflow:** Ensure students learn the complete workflow of engineering project development and management.
+
+8. **Hands-On Experience:** Provide hands-on experience through multiple projects.
+
+9. **Process Understanding:** Offer a complete understanding of the engineering tools and software process and its practical applications.
+
+## Rules and Regulations
+1. **Eligibility:** Open to all first-year and second-year students of KIET Group of Institutions.
+2. **Attendance:** Students must attend all scheduled sessions and complete all assigned tasks.
+3. **Assignments:** All assignments and projects must be submitted on time.
+4. **Ethics:** Students must adhere to the highest standards of academic integrity and professionalism.
+5. **Collaboration:** While collaboration is encouraged, all work submitted must be original and completed by the individual.
 
 ## Sample Projects
 
@@ -64,7 +90,7 @@ To get started with the projects, ensure you have the following prerequisites: -
 
 4. Basic understanding of Machine Learning and Deep Learning
    
-##Contributing
+## Contributing
 
 We welcome contributions to enhance the learning experience. To contribute:
 
@@ -78,7 +104,7 @@ We welcome contributions to enhance the learning experience. To contribute:
 
 Please ensure your contributions adhere to our Code of Conduct.
 
-##Resources
+## Resources
 
 Here are some useful resources to help you along the way:
 
@@ -88,7 +114,7 @@ Here are some useful resources to help you along the way:
 
 ● TensorFlow Documentation
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
